@@ -75,3 +75,67 @@ data_abrasion <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customer
                                    sheet = "abrasion-198")
 
 write.csv(data_abrasion, "data_abrasion_198.csv", row.names = FALSE )
+
+
+data_xbar_cnc_rosca <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_histoshi_kume.xlsx",
+                                   sheet = "xbar-cnc_rosca")
+
+write.csv(data_xbar_cnc_rosca, "data_xbar_cnc_rosca.csv", row.names = FALSE )
+
+
+data_imr_quimico <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_histoshi_kume.xlsx",
+                                         sheet = "imr_quimico")
+
+write.csv(data_imr_quimico, "data_imr_quimico.csv", row.names = FALSE )
+
+
+data_np_sapatos <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_histoshi_kume.xlsx",
+                                      sheet = "np-sapatos")
+
+write.csv(data_np_sapatos, "data_np_sapatos.csv", row.names = FALSE )
+
+
+data_p_baterias <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_histoshi_kume.xlsx",
+                                     sheet = "p-baterias")
+
+write.csv(data_p_baterias, "data_p_baterias.csv", row.names = FALSE )
+
+##
+data_p_baterias <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_histoshi_kume.xlsx",
+                                     sheet = "p-baterias")
+
+write.csv(data_p_baterias, "data_p_baterias.csv", row.names = FALSE )
+
+data_c_circuito_imp <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_histoshi_kume.xlsx",
+                                     sheet = "c-circuito_imp")
+
+write.csv(data_c_circuito_imp, "data_c_circuito_imp.csv", row.names = FALSE )
+
+
+data_u_computer <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_histoshi_kume.xlsx",
+                                     sheet = "u-computer")
+
+write.csv(data_u_computer, "data_u_computer.csv", row.names = FALSE )
+
+
+data_u_tecido <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_histoshi_kume.xlsx",
+                                     sheet = "u-tecido")
+
+write.csv(data_u_tecido, "data_u_tecido.csv", row.names = FALSE )
+
+data_p_canetas <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_histoshi_kume.xlsx",
+                                     sheet = "p-canetas")
+
+write.csv(data_p_canetas, "data_p_canetas.csv", row.names = FALSE )
+
+
+data_p_geladeiras <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_histoshi_kume.xlsx",
+                                     sheet = "p-geladeiras")
+
+write.csv(data_p_geladeiras, "data_p_geladeiras.csv", row.names = FALSE )
+
+
+data_xr_racao <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_histoshi_kume.xlsx",
+                                       sheet = "xr-racao")
+
+write.csv(data_xr_racao, "data_xr_racao.csv", row.names = FALSE )
