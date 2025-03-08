@@ -1,0 +1,26 @@
+"effect","factor_level1","factor_level2","factor_level3","factor_level3_score"
+"Dimensinal variation","Machine","Operation","Stability",1
+"Dimensinal variation","Machine","Operation","Imbalance",1
+"Dimensinal variation","Machine","Jigs & Tools","Deformation",1
+"Dimensinal variation","Machine","Jigs & Tools","Abrasion",1
+"Dimensinal variation","Machine","Inspection","Method",1
+"Dimensinal variation","Machine","Inspection","Item",1
+"Dimensinal variation","Machine","Inspection","Part",1
+"Dimensinal variation","Operational  Method","Fitting material","Position",1
+"Dimensinal variation","Operational  Method","Fitting material","Angle",1
+"Dimensinal variation","Operational  Method","Working","Procedure",1
+"Dimensinal variation","Operational  Method","Working","Speed",1
+"Dimensinal variation","Operational  Method","Setting","Order",1
+"Dimensinal variation","Operational  Method","Setting","Degree of tightening",1
+"Dimensinal variation","Operators","Spirit","Concentration",1
+"Dimensinal variation","Operators","Spirit","Attentiveness",1
+"Dimensinal variation","Operators","Health","Fatigue",1
+"Dimensinal variation","Operators","Health","Illnes",1
+"Dimensinal variation","Operators","Skill","Training",1
+"Dimensinal variation","Operators","Skill","Experience",1
+"Dimensinal variation","Operators","Skill","Education",1
+"Dimensinal variation","Parts & Materials","Form","Diameter",1
+"Dimensinal variation","Parts & Materials","Form","Dimension",1
+"Dimensinal variation","Parts & Materials","Form","Shape",1
+"Dimensinal variation","Parts & Materials","Quality of material","Component",1
+"Dimensinal variation","Parts & Materials","Quality of material","Storage",1

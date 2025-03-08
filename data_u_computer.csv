@@ -1,4 +1,4 @@
-"sample_number","sample_size","num_nonconformities"
+"sample_id","sample_size","number_of_nonconformities"
 1,5,10
 2,5,12
 3,5,8

@@ -1,4 +1,4 @@
-"num_amostra","num_defeituosa","tamanho_amostra","perc_defeituosa"
+"sample_id","defect_qty","sample_size","defect_perc"
 1,8,100,8
 2,8,100,8
 3,5,100,5

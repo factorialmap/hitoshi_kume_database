@@ -1,4 +1,4 @@
-"num_rolo","num_metros_quadrados","num_unidades","num_defeitos","num_medio_defeitos_unidade"
+"roll_number","square_meters","number_of_units","number_of_defects","mean_number_of_defects_per_unit"
 1,500,10,14,1.4
 2,400,8,12,1.5
 3,650,13,20,1.53846153846154
